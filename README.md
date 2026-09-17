@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Land-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Land-Management?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Land-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Land-Management?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Land-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Land-Management?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Land-Management/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Land-Management?style=flat-square&logo=github&color=green" alt="Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Land-Management/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Land-Management?style=flat-square&color=orange" alt="License" /></a>
@@ -68,42 +68,42 @@ Below are the leading commercial land management and civic community development
 
 ## 💻 Open-Source GitHub Projects
 
-Open-source land management tooling spans cadastral mapping, spatial databases, demographic simulation, citizen reporting, and pro-poor land recordation. Below are notable open-source repositories sorted in descending order of GitHub star count.
+Open-source land management tooling spans cadastral mapping, spatial databases, demographic simulation, citizen reporting, and pro-poor land recordation. Below are notable open-source repositories sorted in descending order of GitHub Stars_Count.
 
-1. **[QGIS](https://github.com/qgis/QGIS)** [<img src="https://img.shields.io/github/stars/qgis/QGIS?style=social&color=white" alt="GitHub stars"/>](https://github.com/qgis/QGIS/stargazers)  
+1. **[QGIS](https://github.com/qgis/QGIS)** [<img src="https://img.shields.io/github/stars/qgis/QGIS?style=social&color=white" alt="GitHub_Stars"/>](https://github.com/qgis/QGIS/stargazers)  
    The de facto standard open-source desktop Geographic Information System. Extensively utilized by municipal GIS teams, urban planners, and cadastral authorities for digitizing parcels, designing zoning overlays, and publishing maps.
 
-2. **[OSMnx](https://github.com/gboeing/osmnx)** [<img src="https://img.shields.io/github/stars/gboeing/osmnx?style=social&color=white" alt="GitHub stars"/>](https://github.com/gboeing/osmnx/stargazers)  
+2. **[OSMnx](https://github.com/gboeing/osmnx)** [<img src="https://img.shields.io/github/stars/gboeing/osmnx?style=social&color=white" alt="GitHub_Stars"/>](https://github.com/gboeing/osmnx/stargazers)  
    Python package for downloading, modeling, analyzing, and visualizing street networks, parcel geometries, and urban spatial features directly from OpenStreetMap.
 
-3. **[GeoPandas](https://github.com/geopandas/geopandas)** [<img src="https://img.shields.io/github/stars/geopandas/geopandas?style=social&color=white" alt="GitHub stars"/>](https://github.com/geopandas/geopandas/stargazers)  
+3. **[GeoPandas](https://github.com/geopandas/geopandas)** [<img src="https://img.shields.io/github/stars/geopandas/geopandas?style=social&color=white" alt="GitHub_Stars"/>](https://github.com/geopandas/geopandas/stargazers)  
    Open-source project making geospatial operations in Python intuitive. Forms the computational backbone for parcel overlay checking, zoning boundary intersections, and cadastral data wrangling.
 
-4. **[OpenAddresses](https://github.com/openaddresses/openaddresses)** [<img src="https://img.shields.io/github/stars/openaddresses/openaddresses?style=social&color=white" alt="GitHub stars"/>](https://github.com/openaddresses/openaddresses/stargazers)  
+4. **[OpenAddresses](https://github.com/openaddresses/openaddresses)** [<img src="https://img.shields.io/github/stars/openaddresses/openaddresses?style=social&color=white" alt="GitHub_Stars"/>](https://github.com/openaddresses/openaddresses/stargazers)  
    Global repository and processing infrastructure for open civic data, aggregating hundreds of millions of address points, building footprints, and parcel boundaries worldwide.
 
-5. **[PostGIS](https://github.com/postgis/postgis)** [<img src="https://img.shields.io/github/stars/postgis/postgis?style=social&color=white" alt="GitHub stars"/>](https://github.com/postgis/postgis/stargazers)  
+5. **[PostGIS](https://github.com/postgis/postgis)** [<img src="https://img.shields.io/github/stars/postgis/postgis?style=social&color=white" alt="GitHub_Stars"/>](https://github.com/postgis/postgis/stargazers)  
    The industry-standard spatial database extender for PostgreSQL. Stores parcel fabric polygons, municipal zoning districts, historical permit coordinates, and spatial indexes for high-speed spatial queries.
 
-6. **[PySAL](https://github.com/pysal/pysal)** [<img src="https://img.shields.io/github/stars/pysal/pysal?style=social&color=white" alt="GitHub stars"/>](https://github.com/pysal/pysal/stargazers)  
+6. **[PySAL](https://github.com/pysal/pysal)** [<img src="https://img.shields.io/github/stars/pysal/pysal?style=social&color=white" alt="GitHub_Stars"/>](https://github.com/pysal/pysal/stargazers)  
    Python Spatial Analysis Library for regional science and urban planning. Supplies algorithms for spatial econometrics, urban land value surface modeling, and spatial cluster detection.
 
-7. **[FixMyStreet](https://github.com/mysociety/fixmystreet)** [<img src="https://img.shields.io/github/stars/mysociety/fixmystreet?style=social&color=white" alt="GitHub stars"/>](https://github.com/mysociety/fixmystreet/stargazers)  
+7. **[FixMyStreet](https://github.com/mysociety/fixmystreet)** [<img src="https://img.shields.io/github/stars/mysociety/fixmystreet?style=social&color=white" alt="GitHub_Stars"/>](https://github.com/mysociety/fixmystreet/stargazers)  
    Turnkey map-based civic issue reporting platform developed by mySociety. Connects citizen complaints directly to local authority casework systems, inspection workflows, and street maintenance teams.
 
-8. **[HOT Tasking Manager](https://github.com/hotosm/tasking-manager)** [<img src="https://img.shields.io/github/stars/hotosm/tasking-manager?style=social&color=white" alt="GitHub stars"/>](https://github.com/hotosm/tasking-manager/stargazers)  
+8. **[HOT Tasking Manager](https://github.com/hotosm/tasking-manager)** [<img src="https://img.shields.io/github/stars/hotosm/tasking-manager?style=social&color=white" alt="GitHub_Stars"/>](https://github.com/hotosm/tasking-manager/stargazers)  
    Collaborative mapping and land parcel delineation coordination tool created by the Humanitarian OpenStreetMap Team (HOT) for orchestrating distributed field surveying.
 
-9. **[UrbanSim](https://github.com/UDST/urbansim)** [<img src="https://img.shields.io/github/stars/UDST/urbansim?style=social&color=white" alt="GitHub stars"/>](https://github.com/UDST/urbansim/stargazers)  
+9. **[UrbanSim](https://github.com/UDST/urbansim)** [<img src="https://img.shields.io/github/stars/UDST/urbansim?style=social&color=white" alt="GitHub_Stars"/>](https://github.com/UDST/urbansim/stargazers)  
    Open modeling platform for simulating urban land use, real estate markets, transportation demand, and municipal zoning scenario impacts across regional horizons.
 
-10. **[STDM – Social Tenure Domain Model](https://github.com/gltn/stdm)** [<img src="https://img.shields.io/github/stars/gltn/stdm?style=social&color=white" alt="GitHub stars"/>](https://github.com/gltn/stdm/stargazers)  
+10. **[STDM – Social Tenure Domain Model](https://github.com/gltn/stdm)** [<img src="https://img.shields.io/github/stars/gltn/stdm?style=social&color=white" alt="GitHub_Stars"/>](https://github.com/gltn/stdm/stargazers)  
     Pro-poor land recordation tool developed by the Global Land Tool Network (GLTN) and UN-Habitat. Built on top of QGIS and PostgreSQL/PostGIS to record flexible tenure relationships in customary lands and informal settlements.
 
-11. **[Planscape](https://github.com/OurPlanscape/Planscape)** [<img src="https://img.shields.io/github/stars/OurPlanscape/Planscape?style=social&color=white" alt="GitHub stars"/>](https://github.com/OurPlanscape/Planscape/stargazers)  
+11. **[Planscape](https://github.com/OurPlanscape/Planscape)** [<img src="https://img.shields.io/github/stars/OurPlanscape/Planscape?style=social&color=white" alt="GitHub_Stars"/>](https://github.com/OurPlanscape/Planscape/stargazers)  
     Open-source landscape-scale planning application developed in partnership with the State of California. Synthesizes spatial datasets and fire behavior models to prioritize regional land treatments and wildfire resilience.
 
-12. **[Digital Land Python](https://github.com/digital-land/digital-land-python)** [<img src="https://img.shields.io/github/stars/digital-land/digital-land-python?style=social&color=white" alt="GitHub stars"/>](https://github.com/digital-land/digital-land-python/stargazers)  
+12. **[Digital Land Python](https://github.com/digital-land/digital-land-python)** [<img src="https://img.shields.io/github/stars/digital-land/digital-land-python?style=social&color=white" alt="GitHub_Stars"/>](https://github.com/digital-land/digital-land-python/stargazers)  
     Open-source data transformation toolset developed by the UK Ministry of Housing, Communities & Local Government (MHCLG) to standardize brownfield land registers, local planning data, and conservation area boundaries.
 
 ---
